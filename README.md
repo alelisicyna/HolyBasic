@@ -1,2 +1,3 @@
 # HolyBasic
-Basic Interpreter by alelisicyna // .NET C#
+Basic Interpreter by alelisicyna
+Language: HolyC
